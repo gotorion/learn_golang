@@ -1,0 +1,2 @@
+- use `go build` to build source file
+- use `go run` to build & run binary file
